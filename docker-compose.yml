@@ -5,7 +5,7 @@ services:
     restart: always
     environment:
       MYSQL_DATABASE: hotelhub_db
-      MYSQL_ROOT_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: duy0410hihi
     ports:
       - "3307:3306"
     volumes:
